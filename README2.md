@@ -184,8 +184,7 @@ git push -u origin main
 **Ihor Bezruchko**
 Junior IT Support | Cybersecurity Enthusiast | Luxembourg
 
-- LinkedIn: [linkedin.com/in/ihorbezruchko](https://linkedin.com/in/ihorbezruchko)
-- GitHub: [github.com/ihorbezruchko](https://github.com/ihorbezruchko)
+- LinkedIn: [linkedin.com/in/ihorbezruchko](https://www.linkedin.com/in/ihor-bezruchko-31637a2b7/)
 - Email: ihorbezruchko5@gmail.com
 
 ---
